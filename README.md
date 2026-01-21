@@ -87,4 +87,5 @@ Through this project, I gained hands-on experience in:
 
 **Shafiya Sakina**  
 GitHub: https://github.com/shafiya-codes  
-LinkedIn: (add your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/shafiya-sakina
+
