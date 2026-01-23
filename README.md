@@ -15,5 +15,5 @@ This repository contains a reproducible bulk RNA-seq analysis pipeline in R.
 ## Usage
 1. Place paired-end FASTQ files in `data/`
 2. Place reference genome and GTF in `reference/`
-3. Run the script in `rna_scripts/`
+3. Run the script in `scripts/`
 
